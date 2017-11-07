@@ -6,3 +6,10 @@ div {
 	font-family: Arial, sans-serif;
 	font-size: 15px;
 }
+
+.sq {
+	width: 200px;
+	height: 200px;
+	background-color: pink;
+	border-radius: 50%;
+}
